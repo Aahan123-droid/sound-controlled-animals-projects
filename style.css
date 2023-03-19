@@ -1,0 +1,37 @@
+body{
+    font-family: 'Itim', cursive;
+    background: rgb(131, 224, 243);
+}
+
+.header_div{
+    background: white;
+    color: rgb(236, 107, 60);
+}
+
+.header_div p{
+    font-family: 'Great Vibes', cursive;
+    color: rgb(46, 45, 45);
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(71, 67, 67)1, 67, 67;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: beige;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(211, 205, 142);
+    text-align: center;
+}
